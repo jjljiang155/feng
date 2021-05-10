@@ -1,0 +1,22 @@
+/* pages/home.wxss */
+.class1{
+  width: 100%;
+  height: 200rpx;
+  color: blue;
+}
+
+.item-img{
+  width: 100%;
+  height: 300rpx;
+}
+
+.grid{
+  width: 100%;
+  height: 300rpx;
+}
+
+.activity
+{
+  width: 100%;
+  height: 300rpx;
+}

@@ -1,0 +1,12 @@
+<!--commpent/spuscroll/index.wxml-->
+<view>
+    <image src="{{theme.titleImg}}"></image>
+    <scroll-view>
+        <block wx:for="{{spus}}">
+            <view>
+                <image src="{{item.img}}"></image>
+                <text>{{item.title}}</text>
+            </view>
+        </block>
+    </scroll-view>
+</view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "l-category":"/commpent/grid/index",
+    "l-scro":"/commpent/spuscroll/index"
+  }
+
+}

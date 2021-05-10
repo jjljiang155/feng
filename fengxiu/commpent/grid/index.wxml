@@ -1,0 +1,14 @@
+<!--commpent/index.wxml-->
+<view class="contain">
+    <l-grid row-num="3" >
+        <block wx:for="{{grid}}">
+            <l-grid-item  slot="{{index}}" key="{{index}}">
+                <view class="griditem">
+                    <image class="image" src="{{item.gridImg}}"></image>
+                    <text class="text">{{item.name}}</text>
+                </view>
+
+            </l-grid-item>
+        </block>
+    </l-grid>
+</view>

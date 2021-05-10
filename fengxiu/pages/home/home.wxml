@@ -1,0 +1,24 @@
+<!--pages/home.wxml-->
+<view>
+  <image class="class1" src="{{themeA.entranceImg}} "></image>
+  <swiper class="item-img" indicator-dots autoplay circular>
+
+    <block wx:for="{{banner.items}}">
+      <swiper-item>
+          <image class="item-img" src="{{item.img}}">
+
+          </image>
+      </swiper-item>
+    </block>
+   
+  </swiper>
+
+
+    <l-category grid="{{categorys}}"></l-category>
+
+
+<image class="activity" src="{{activity.entranceImg}}"></image>
+
+<l-scro theme="{{themspu}}" spus="{{themspu.spuList}}" ></l-scro>
+
+</view>
