@@ -10,10 +10,7 @@ import com.fengxiu.service.TokenService;
 import io.jsonwebtoken.Claims;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.validation.annotation.Validated;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -60,8 +57,8 @@ public class TokenViewController {
         }
 
 
-    @RequestMapping("vertoken/{token}")
-    public Boolean vertoken(@PathVariable String token)
+    @RequestMapping("vertoken")
+    public Boolean vertoken(@RequestParam("token") String token)
     {
         try {
             Claims claims = JwtUtil.parseJWT(token);

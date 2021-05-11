@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aca27ae3-74e2-480f-b427-903821352232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-common/src/main/java/com/changgou/entity/BCrypt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-gateway/changgougateway_system/changgougateway_system.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-gateway/changgougateway_system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-gateway/changgougateway_system/src/main/java/com/changgou/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-gateway/changgougateway_system/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/controller/SpecController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/dao/SpecMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/CategoryBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Para.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Pref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Sku.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Spec.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Spu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/StockBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/src/main/java/com/changgou/goods/pojo/Template.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/java/com/chuanggou/systemservice/SystemApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/java/com/chuanggou/systemservice/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/java/com/chuanggou/systemservice/dao/AdminMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/java/com/chuanggou/systemservice/pojo/Admin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/java/com/chuanggou/systemservice/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-system/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/FengxiuApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/common/JwtUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/common/Paging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/common/RsaUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/config/AutoUrlConfigation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/config/ExceptionConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/config/InterceptConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/ActivityController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/BannerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/SpuController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/ThemeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dao/ActivityDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dao/BannerDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dao/CategoryDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dao/ThemeDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dto/BannerDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dto/LoginType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dto/PersonDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/dto/TokenDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/exception/ForbidException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/exception/GloablExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/exception/NotFundException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/exception/http/HttpException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/handler/PreAutoUrlRequestMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/PermissIntercept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/ScopLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/Activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/BannerItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/BaseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/BaseModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/Spu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/Theme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/models/WXresp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/service/ActivityService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/service/BannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/service/ThemeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/service/TokenService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/valid/PasswordValidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/valid/PasswordValidtedClassImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/valid/TokenValidate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/vo/PagingVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/vo/SpuSimpleVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ValidationMessages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/config/exception-config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/fengxiu.jks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/public.key" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changgou0422/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../changgou0422/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changgou0422/changgou-common/src/main/java/com/changgou/entity/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../changgou0422/changgou-common/src/main/java/com/changgou/entity/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changgou0422/changgou-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../changgou0422/changgou-gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/changgou-service-goods/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changgou0422/changgou-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../changgou0422/changgou-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -153,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/PermissIntercept.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="206">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -165,7 +78,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/ActivityController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -173,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.3.RELEASE/spring-webmvc-5.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
+            <state relative-caret-position="14715">
               <caret line="1048" selection-start-line="1048" selection-end-line="1048" />
             </state>
           </provider>
@@ -182,7 +95,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/common/JwtUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
+            <state relative-caret-position="1470">
               <caret line="108" column="20" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="20" />
             </state>
           </provider>
@@ -191,7 +104,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/service/TokenService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="990">
               <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -203,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+            <state relative-caret-position="252">
+              <caret line="60" column="57" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,8 +128,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/BannerController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="195">
+              <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -227,8 +140,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/config/AutoUrlConfigation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="150">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -239,12 +152,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/config/InterceptConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="75">
               <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#319#320#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -253,7 +164,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/ScopLevel.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="135">
               <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -376,73 +287,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -451,8 +340,8 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -462,48 +351,8 @@
               <item name="v1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="dto" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="exception" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="handler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
+              <item name="fengxiu1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fengxiu1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -511,71 +360,12 @@
               <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
               <item name="intercept" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="valid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fengxiu" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fengxiu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -672,16 +462,18 @@
       <workItem from="1620436844727" duration="9741000" />
       <workItem from="1620465239995" duration="3703000" />
       <workItem from="1620702467158" duration="15183000" />
+      <workItem from="1620726533035" duration="896000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57337000" />
+    <option name="totallyTimeSpent" value="58233000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="270" y="66" width="1265" height="795" extended-state="0" />
+    <frame x="175" y="44" width="1265" height="795" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.2992641" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49635038" visible="true" weight="0.30417007" />
       <window_info id="Structure" order="1" sideWeight="0.50364965" side_tool="true" weight="0.2992641" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -692,7 +484,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41033" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.41033" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -725,7 +517,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java</url>
-          <line>52</line>
+          <line>49</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -740,6 +532,12 @@
           <line>54</line>
           <properties />
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -995,40 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/common/JwtProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1355#1356#0" expanded="true" />
-            <element signature="e#1384#1385#0" expanded="true" />
-            <element signature="e#1428#1429#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1501#1502#0" expanded="true" />
-            <element signature="e#1534#1535#0" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
-            <element signature="e#1630#1631#0" expanded="true" />
-            <element signature="e#1667#1668#0" expanded="true" />
-            <element signature="e#1700#1701#0" expanded="true" />
-            <element signature="e#1752#1753#0" expanded="true" />
-            <element signature="e#1796#1797#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1855#1856#0" expanded="true" />
-            <element signature="e#1896#1897#0" expanded="true" />
-            <element signature="e#1932#1933#0" expanded="true" />
-            <element signature="e#1971#1972#0" expanded="true" />
-            <element signature="e#2003#2004#0" expanded="true" />
-            <element signature="e#2056#2057#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
-            <element signature="e#2139#2140#0" expanded="true" />
-            <element signature="e#2172#2173#0" expanded="true" />
-            <element signature="e#2228#2229#0" expanded="true" />
-            <element signature="e#2272#2273#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/common/JwtProperties.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/config/ExceptionConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1100,17 +865,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/ActivityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.3.RELEASE/spring-webmvc-5.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14715">
+          <caret line="1048" selection-start-line="1048" selection-end-line="1048" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/common/JwtUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="1470">
           <caret line="108" column="20" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/service/TokenService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/BannerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/config/AutoUrlConfigation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="150">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1119,46 +918,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/config/InterceptConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
+        <state relative-caret-position="75">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/BannerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/service/TokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="82" column="27" selection-start-line="82" selection-start-column="27" selection-end-line="82" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.3.RELEASE/spring-webmvc-5.2.3.RELEASE-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="1048" selection-start-line="1048" selection-end-line="1048" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/ScopLevel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="135">
           <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1166,17 +936,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/ActivityController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/intercept/PermissIntercept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1185,8 +948,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/fengxiu/controller/v1/TokenViewController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        <state relative-caret-position="252">
+          <caret line="60" column="57" selection-start-line="60" selection-start-column="51" selection-end-line="60" selection-end-column="57" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
