@@ -11,4 +11,6 @@ public interface UserDao extends JpaRepository<User,Long> {
     User findOneByMobile(String mobil);
 
     User findByOpenid(String openid);
+
+
 }

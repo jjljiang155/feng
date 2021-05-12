@@ -1,4 +1,4 @@
-package com.fengxiu.dto;
+package com.fengxiu.common;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonValue;

@@ -1,9 +1,8 @@
 package com.fengxiu.controller.v1;
 
 
-import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fengxiu.common.JwtUtil;
-import com.fengxiu.dto.LoginType;
+import com.fengxiu.common.LoginType;
 import com.fengxiu.dto.TokenDto;
 import com.fengxiu.models.User;
 import com.fengxiu.service.TokenService;

@@ -1,8 +1,12 @@
 package com.fengxiu.intercept;
 
 import com.fengxiu.common.JwtUtil;
+import com.fengxiu.dao.UserDao;
 import com.fengxiu.exception.ForbidException;
+import com.fengxiu.models.User;
+import com.fengxiu.models.UserLocal;
 import io.jsonwebtoken.Claims;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.web.method.HandlerMethod;
 import org.springframework.web.servlet.HandlerInterceptor;
@@ -13,8 +17,11 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 
-
+@Component
 public class PermissIntercept extends HandlerInterceptorAdapter {
+
+    @Autowired
+    private UserDao userDao;
 
     @Override
     public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception {
@@ -56,6 +63,14 @@ public class PermissIntercept extends HandlerInterceptorAdapter {
 
                 if (scop > value)
                 {
+                    Long uid = claims.get("uid", Long.class);
+                 //   Long uid = Long.parseLong((String)claims.get("uid"));
+
+                    User user = userDao.findById(uid).get();
+
+                    UserLocal.set(user,scop);
+
+
                     return true;
                 }else
                 {
@@ -80,6 +95,9 @@ public class PermissIntercept extends HandlerInterceptorAdapter {
 
     @Override
     public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object handler, Exception ex) throws Exception {
+
+
+        UserLocal.clear();
 
     }
 

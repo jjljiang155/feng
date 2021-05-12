@@ -1,6 +1,6 @@
 package com.fengxiu.dto;
 
-import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fengxiu.common.LoginType;
 import lombok.Data;
 
 import javax.validation.constraints.NotBlank;
