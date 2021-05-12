@@ -44,9 +44,19 @@ public class CouponController {
         List<Coupon> coupons = couponService.getMycoupon(uid);
         return coupons;
     }
-//    @RequestMapping("getcoupon")
-//    public List<Coupon> findCounon()
-//    {
-//        return
-//    }
+    @RequestMapping("findByCatory/{cid}")
+    public List<Coupon> findByCatory(@PathVariable Long cid)
+    {
+
+        return couponService.findByCatory(cid);
+    }
+
+    @RequestMapping("findByWholeStore")
+    public List<Coupon> findByWholeStore()
+    {
+
+        return couponService.findByWholeStore();
+    }
+
+
 }

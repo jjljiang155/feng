@@ -46,4 +46,17 @@ public class CouponService {
         Date now = new Date();
        return couponDao.findMyAvailable(uid,now);
     }
+
+    public List<Coupon> findByCatory( Long cid) {
+
+        Date now = new Date();
+        return couponDao.findByCatory(cid,now);
+    }
+
+    public List<Coupon> findByWholeStore() {
+        Date now = new Date();
+        List<Coupon> byWholeStore = couponDao.findByWholeStore(true, now);
+
+        return byWholeStore;
+    }
 }
